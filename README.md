@@ -1,1 +1,1 @@
-# arabic-nlp-resources
+# Awesome Arabic NLP
